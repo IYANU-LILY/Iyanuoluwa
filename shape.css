@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-s
+}
+.pinkbox a{
+    color: black;
+}
+.a{
+    background-color: aqua;
+
+}
+.container{
+    display: grid;
+    grid-template-columns: 300px;
+}
